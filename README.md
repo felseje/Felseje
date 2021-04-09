@@ -1,6 +1,7 @@
-### Hi there 👋
+### Olá, pessoas! 👋😄
+# Este é meu repositório pessoal. Aqui você tem algumas informações sobre mim.
 
-✨ FelipheJ ✨
+✨ Sobre FelipheJ ✨
 
 - 🔭 Eu trabalho na empresa Yaman.
 - 🌱 Eu estou estudando sobre automação de testes.
