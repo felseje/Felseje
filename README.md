@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ✨ FelipheJ ✨
 
 - 🔭 Eu trabalho na empresa Yaman.
@@ -11,4 +10,3 @@
 - 📫 Como me encontrar: fora de cogitação.
 - 😄 Apelido: Freeman.
 - ⚡ Um fato engraçado sobre mim: antigamente eu chamava o gabinete de cpu.
--->
