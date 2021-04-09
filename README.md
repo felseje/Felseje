@@ -1,5 +1,5 @@
 # Olá, pessoas! 👋😄
-### Este é meu repositório pessoal. Aqui você tem algumas informações sobre mim.
+### Este é meu repositório pessoal. Aqui você tem acesso à algumas informações sobre mim.
 
 ✨ Sobre FelipheJ ✨
 
