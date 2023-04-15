@@ -1,7 +1,7 @@
 # Olá, pessoas! 👋😄
 ### Este é meu repositório pessoal. Aqui você tem acesso à algumas informações sobre mim.
 
-✨ Sobre FelipheJ ✨
+✨ Sobre Felseje ✨
 
 - 🔭 Eu trabalho na empresa: Yaman Tecnologia LTDA.
 - 🌱 Eu estou estudando sobre: automação de testes.
