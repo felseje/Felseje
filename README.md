@@ -14,12 +14,10 @@ This is my personal repository. Here you'll find some information about me.
 
 ### 📊 GitHub Status
 
-<div>
-  <a href="https://github.com/Fe-grr">
-    <img height="170em"
-      src="https://github-readme-stats.vercel.app/api?username=felseje&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="170em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felseje&layout=compact&langs_count=7&theme=omni"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/felseje">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felseje&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felseje&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 ### 📌 Contacts
