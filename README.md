@@ -15,9 +15,9 @@ This is my personal repository. Here you'll find some information about me.
 ### 📊 GitHub Status
 
 <div align="center">
-  <a href="https://github.com/felseje">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felseje&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felseje&layout=compact&langs_count=7&theme=omni"/>
+  <a href="https://github.com/felseje" style="display: flex; flex-direction: row; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=felseje&show_icons=true&theme=omni&include_all_commits=true&count_private=true" width="420" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felseje&layout=compact&langs_count=7&theme=omni" width="420" />
   </a>
 </div>
 
