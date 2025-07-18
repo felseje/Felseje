@@ -1,13 +1,13 @@
-# Olá, pessoas! 👋😄
-### Este é meu repositório pessoal. Aqui você tem acesso à algumas informações sobre mim.
+# Hello, folks! 👋😄
+### This is my personal repository. Here you'll find some information about me.
 
-✨ Sobre Felseje ✨
+✨ About Felseje ✨
 
-- 🔭 Eu trabalho na empresa: Yaman Tecnologia LTDA.
-- 🌱 Eu estou estudando sobre: automação de testes.
-- 👯 Eu procuro colaborar com: projetos diversos.
-- 🤔 Eu estou procurando ajuda para: aprender comunicação com hardware.
-- 💬 Pergunte me sobre: computadores.
-- 📫 Como me encontrar: undefined.
-- 😄 Apelido: undefined.
-- ⚡ Um fato engraçado sobre mim: já chamei o gabinete de cpu.
+- 🔭 I work at: undefined.
+- 🌱 I'm currently learning about: mobile development.
+- 👯 I'm looking to collaborate on: various projects.
+- 🤔 I'm seeking help with: learning hardware communication.
+- 💬 Ask me about: computers.
+- 📫 How to reach me: undefined.
+- 😄 Nickname: undefined.
+- ⚡ A fun fact about me: I used to call the computer case the “CPU” — a classic Brazilian (bad) habit!
